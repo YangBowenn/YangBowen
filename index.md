@@ -1,3 +1,5 @@
+title: [Yang Bowen]
+
 # Welcome to YangBowen's Personal Page.
 
 I am a research of computer vison.
